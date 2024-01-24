@@ -1,4 +1,8 @@
-### Hi there 👋
+### Just a noob :)
+#### interested in:
+- TelegramBots
+- Android Customization
+- Life, the universe and everything
 
 <!--
 **reneas/reneas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
